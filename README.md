@@ -1,5 +1,5 @@
 # MIT Open Courseware - Computer Science and Engineering Cirriculum
-This is a repository to hold all files, problems, and solutions for the Computer Science and Engineering curriculum.
+This is a repository to hold all files, problems, and solutions as I work along the Computer Science and Engineering curriculum.
 
 
 ## Cirriculum Outline
